@@ -1,23 +1,23 @@
 {
     "programs": [
         {
-            "id": "app1",
-            "name": "Mi Aplicación 1",
-            "description": "Esta es una aplicación de ejemplo que demuestra la funcionalidad del sistema de actualizaciones.",
-            "packageName": "com.example.app1",
-            "iconUrl": "https://raw.githubusercontent.com/Alanpidi/DICOSA/main/icons/app1.png",
-            "category": "Utilidades",
-            "developer": "Tu Empresa",
+            "id": "pednayar",
+            "name": "PedNayar",
+            "description": "Aplicación de pedidos Nayar. Sistema de gestión de pedidos y ventas.",
+            "packageName": "com.nayar.pednayar",
+            "iconUrl": "https://raw.githubusercontent.com/Alanpidi/DICOSA/main/pednayar/icon.png",
+            "category": "Ventas",
+            "developer": "Nayar Systems",
             "minSdkVersion": 29
         },
         {
-            "id": "app2",
-            "name": "Mi Aplicación 2",
-            "description": "Segunda aplicación de ejemplo con características diferentes para mostrar la gestión de múltiples aplicaciones.",
-            "packageName": "com.example.app2",
-            "iconUrl": "https://raw.githubusercontent.com/Alanpidi/DICOSA/main/icons/app2.png",
-            "category": "Productividad",
-            "developer": "Tu Empresa",
+            "id": "preventa",
+            "name": "Preventa Nayar",
+            "description": "Sistema de preventa Nayar. Gestión de preventas y control de inventario.",
+            "packageName": "com.nayar.preventa",
+            "iconUrl": "https://raw.githubusercontent.com/Alanpidi/DICOSA/main/preventa/icon.png",
+            "category": "Ventas",
+            "developer": "Nayar Systems",
             "minSdkVersion": 29
         }
     ]
