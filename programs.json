@@ -1,0 +1,24 @@
+{
+    "programs": [
+        {
+            "id": "app1",
+            "name": "Mi Aplicación 1",
+            "description": "Esta es una aplicación de ejemplo que demuestra la funcionalidad del sistema de actualizaciones.",
+            "packageName": "com.example.app1",
+            "iconUrl": "https://raw.githubusercontent.com/Alanpidi/DICOSA/main/icons/app1.png",
+            "category": "Utilidades",
+            "developer": "Tu Empresa",
+            "minSdkVersion": 29
+        },
+        {
+            "id": "app2",
+            "name": "Mi Aplicación 2",
+            "description": "Segunda aplicación de ejemplo con características diferentes para mostrar la gestión de múltiples aplicaciones.",
+            "packageName": "com.example.app2",
+            "iconUrl": "https://raw.githubusercontent.com/Alanpidi/DICOSA/main/icons/app2.png",
+            "category": "Productividad",
+            "developer": "Tu Empresa",
+            "minSdkVersion": 29
+        }
+    ]
+}
