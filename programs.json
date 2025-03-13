@@ -2,8 +2,8 @@
     "programs": [
         {
             "id": "pednayar",
-            "name": "PedNayar",
-            "description": "Aplicación de pedidos Nayar. Sistema de gestión de pedidos y ventas.",
+            "name": "Pedidos Nayar",
+            "description": "Aplicación de pedidos Nayar.",
             "packageName": "com.nayar.pednayar",
             "iconUrl": "https://raw.githubusercontent.com/Alanpidi/DICOSA/main/pednayar/icon.png",
             "category": "Ventas",
@@ -12,8 +12,8 @@
         },
         {
             "id": "preventa",
-            "name": "Preventa Nayar",
-            "description": "Sistema de preventa Nayar. Gestión de preventas y control de inventario.",
+            "name": "Preventa MDS",
+            "description": "Sistema de preventa Nayar.",
             "packageName": "com.nayar.preventa",
             "iconUrl": "https://raw.githubusercontent.com/Alanpidi/DICOSA/main/preventa/icon.png",
             "category": "Ventas",
